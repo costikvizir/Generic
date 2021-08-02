@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\costik\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\costik\\.nuget\\packages"
+    ]
+  }
+}
